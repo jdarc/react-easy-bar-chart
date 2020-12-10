@@ -20,6 +20,7 @@ const dataset = new DataSet([
 ]);
 
 return <BarChart width={800} height={600} settings={settings} dataset={dataset}/>;```
+```
 
 ## License
 
